@@ -11,7 +11,7 @@ public class RadioTest {
         assertEquals(0, radio.getCurrentStation());
         assertEquals(0, radio.getCurrentVolume());
     }
-
+//парам пам пам
     @Test
     void testNextStation() {
         Radio radio = new Radio();
